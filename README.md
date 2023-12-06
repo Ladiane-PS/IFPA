@@ -39,28 +39,3 @@ O aplicativo estará disponível em `http://localhost:8080`.
 ### Execução dos Testes com JMeter
 1. Abra o JMeter e abra o arquivo de teste `TestesConcorrencia.jmx`.
 2. Execute o teste no JMeter e analise os resultados.
-
-Certifique-se de ajustar o arquivo `TestesConcorrencia.jmx` conforme necessário para refletir a configuração do seu ambiente de teste.
-
-Lembre-se de substituir `seu-usuario` e `seu-repositorio` pelos seus dados reais.
-
-### Pré-requisitos
-- Java 8 ou superior
-- Maven
-- JMeter
-
-### Configuração do Banco de Dados
-1. As configurações do banco de dados estão no arquivo `src/main/resources/application.properties`.
-2. Certifique-se de que as configurações do H2 estão adequadas para o ambiente de desenvolvimento.
-
-### Execução do Projeto
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. Navegue até o diretório do projeto: `cd seu-repositorio`
-3. Execute o projeto com Maven: `mvn spring-boot:run`
-
-### Execução dos Testes com JMeter
-1. Abra o JMeter e abra o arquivo de teste `TestesConcorrencia.jmx`.
-2. Execute o teste no JMeter e analise os resultados.
-
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests
