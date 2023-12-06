@@ -1,0 +1,6 @@
+com\ifpa\BancoTeste\mode\ContaBV.class
+com\ifpa\BancoTeste\control\ContaBC.class
+com\ifpa\BancoTeste\repo\ContaR.class
+com\ifpa\BancoTeste\mode\ContaB.class
+com\ifpa\BancoTeste\BancoTesteApplication.class
+com\ifpa\BancoTeste\repo\ContaVR.class
